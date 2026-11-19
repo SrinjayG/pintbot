@@ -1,0 +1,8 @@
+.env
+.pytest_cache/
+.release.tar.gz
+.venv/
+__pycache__/
+data/
+listener/auth/
+node_modules/

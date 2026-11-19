@@ -1,0 +1,10 @@
+{"id": "ex1", "sender_name": "Arjun", "text": "2 pints of Tsingtao at Stormies 🍺🍺", "expected_points": 2.0}
+{"id": "ex2", "sender_name": "Mei", "text": "glass of red with dinner", "expected_points": 1.0}
+{"id": "ex3", "sender_name": "Ravi", "text": "3 tequila shots lol", "expected_points": 3.0}
+{"id": "ex4", "sender_name": "Sam", "text": "Heineken 0.0 tonight, driving", "expected_points": 0.5}
+{"id": "ex5", "sender_name": "Arjun", "text": "who's coming to LKF friday?", "expected_points": 0.0}
+{"id": "ex6", "sender_name": "Mei", "text": "a gin tonic and a margarita", "expected_points": 2.0}
+{"id": "ex7", "sender_name": "Ravi", "text": "+1", "quoted_id": "ex1", "context": [{"id": "ex1", "sender_name": "Arjun", "text": "2 pints of Tsingtao at Stormies", "drinks_summary": "2x beer"}], "expected_points": 2.0}
+{"id": "ex8", "sender_name": "Sam", "text": "Arjun had like 5 last night 💀", "expected_points": 0.0}
+{"id": "ex9", "sender_name": "Mei", "text": "two virgin mojitos", "expected_points": 1.0}
+{"id": "ex10", "sender_name": "Ravi", "text": "light beer 3.5% x2", "expected_points": 1.0}
